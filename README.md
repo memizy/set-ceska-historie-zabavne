@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🏰 Pikantní Česká Historie
+# 🏰 Česká Historie Zábavně
 **OQSE Study Set s vtipnými a netradičními fakty**
 
-![OQSE Version](https://img.shields.io/badge/OQSE-v1.0-orange?style=for-the-badge)
+![OQSE Version](https://img.shields.io/badge/OQSE-v0.1-orange?style=for-the-badge)
 ![Type](https://img.shields.io/badge/Contains-mixed--questions-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-blue?style=for-the-badge)
 
@@ -26,7 +26,7 @@ Sada vás provede českou historií z úhlu, který se v běžných učebnicích
 ## 🚀 Jak sadu používat
 
 Sada je plně kompatibilní s ekosystémem Memizy. Stačí si v aplikaci Memizy otevřít import a vložit přímý odkaz na data této sady (upravte URL podle toho, kam soubor nahrajete):
-`https://cdn.jsdelivr.net/gh/memizy/set-historie-pikantnosti@main/historie_sada_hotovo.json`
+`https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json`
 
 ## ⚖️ Licence
 
