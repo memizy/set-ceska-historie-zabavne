@@ -1,0 +1,257 @@
+{
+  "$schema": "https://memizy.com/schemas/oqse/v1.0.json",
+  "version": "1.0",
+  "meta": {
+    "id": "019ca92b-5b1e-724c-9d68-1f132cc67a65",
+    "language": "cs",
+    "title": "Zábavná a pikantní česká historie",
+    "description": "Zábavné otázky a fakta z české historie. Věci, co lidé často neví a jsou nějak vtipné či pikantní.",
+    "subject": "history",
+    "tags": [
+      "historie",
+      "česko",
+      "zajímavosti",
+      "fakta",
+      "zábava"
+    ],
+    "createdAt": "2026-03-01T12:00:00Z",
+    "updatedAt": "2026-03-01T12:00:00Z"
+  },
+  "items": [
+    {
+      "id": "f568e9ab-7971-4e6a-8894-6b01f16f8f8a",
+      "type": "flashcard",
+      "front": "Který z nejvýznamnějších českých králů se tajně účastnil rytířských turnajů inkognito, přičemž při jednom z nich utrpěl vážná zranění včetně zlomené čelisti?",
+      "back": "Karel IV. (Při turnaji v Itálii v roce 1350 byl těžce zraněn, což vysvětluje jeho shrbenou postavu na pozdějších portrétech.)"
+    },
+    {
+      "id": "4bf3356e-e5fb-40d1-b8e8-c7be1615f0c3",
+      "type": "flashcard",
+      "front": "Který slavný český romantický básník si psal tajné deníky složitou šifrou, ve kterých velmi explicitně a vulgárně popisoval své sexuální hrátky?",
+      "back": "Karel Hynek Mácha (Autor Máje si psal šifrované erotické deníky týkající se jeho vztahu s Lori Šomkovou.)"
+    },
+    {
+      "id": "a41837c3-e1e3-4756-afb5-deb649b4ab97",
+      "type": "flashcard",
+      "front": "Do čeho podle protestantské propagandy dopadli katoličtí místodržící při třetí pražské defenestraci roku 1618, že pád ze 16 metrů přežili?",
+      "back": "Do obrovské hromady hnoje v hradním příkopu. (Katolíci naopak tvrdili, že je zachránili andělé svými křídly.)"
+    },
+    {
+      "id": "ef08ae3f-8091-4e64-a6d9-664e5162fee1",
+      "type": "mcq-single",
+      "question": "Čeho se panicky a k smrti bál mocný český král Václav II. (pravděpodobně kvůli traumatům z dětství)?",
+      "options": [
+        "Koček a bouřky",
+        "Křížů a kněží",
+        "Zrcadel a vody"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "62a1ddf0-d3b7-4e72-954a-5d39181bbca6",
+      "type": "mcq-single",
+      "question": "Jak získal český kníže Břetislav I. svou manželku Jitku ze Svinibrodu?",
+      "options": [
+        "Vyhrál ji v šachové partii nad německým císařem",
+        "Unesl ji přímo z kláštera",
+        "Dostal ji jako dar za pomoc v křížové výpravě"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "a19faaa3-8056-48bf-9cbc-9d61165928a7",
+      "type": "mcq-single",
+      "question": "Jaké zvíře choval na Pražském hradě císař Rudolf II., přičemž se toto zvíře údajně jmenovalo Mohamed?",
+      "options": [
+        "Slona",
+        "Lva",
+        "Krokodýla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "aac7fbb2-9108-4383-8e8e-3a55814dd741",
+      "type": "mcq-multi",
+      "question": "Která tvrzení o legendě a skutečnosti ohledně Pražského orloje jsou pravdivá?",
+      "options": [
+        "Podle legendy byl mistr Hanuš oslepen konšely, aby nepostavil další orloj jinde.",
+        "Mistr Hanuš byl prokazatelně prvním stavitelem orloje a vytvořil ho z ničeho.",
+        "Skutečnými původními tvůrci orloje byli Mikuláš z Kadaně a Jan Šindel.",
+        "Mistr Hanuš byl fiktivní postava, která nikdy v Praze nežila."
+      ],
+      "correctIndices": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "a14aad4d-7766-46ca-894a-283dea837bb7",
+      "type": "mcq-multi",
+      "question": "Které netradiční koníčky a vlastnosti měl rakousko-uherský následník trůnu František Ferdinand d'Este?",
+      "options": [
+        "Byl extrémně vášnivý lovec, který za život skolil přes 270 000 zvířat.",
+        "Vášnivě sbíral umělecké předměty s motivem svatého Jiří bojujícího s drakem.",
+        "Chodil po Vídni zásadně bos jako příznivec raného nudismu.",
+        "Trpěl panickým strachem z cestování vlakem."
+      ],
+      "correctIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "86f6c106-b24a-487e-b021-b8a34a62efac",
+      "type": "mcq-multi",
+      "question": "V české historii máme 'slavnou' tradici defenestrací (vyhazování z oken). Které roky se s pražskými defenestracemi skutečně pojí?",
+      "options": [
+        "1419 (husité házejí konšely z Novoměstské radnice)",
+        "1483 (bouře pražského lidu a další létající konšelé)",
+        "1526 (vyhození zástupců Habsburků při nástupu na trůn)",
+        "1618 (stavovské povstání a vyhození místodržících na Hradě)"
+      ],
+      "correctIndices": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "5a5dcfab-ecd2-4ae4-8369-10bf9088dd25",
+      "type": "true-false",
+      "question": "První pražská defenestrace z roku 1419, která odstartovala husitské války, údajně začala tím, že na kázajícího Jana Želivského někdo hodil z okna radnice kámen.",
+      "answer": true
+    },
+    {
+      "id": "d8880118-1348-44af-8328-92e35118ecb0",
+      "type": "true-false",
+      "question": "Slavný husitský vojevůdce Jan Žižka z Trocnova přišel o obě oči hned v první bitvě u Sudoměře a po celý zbytek válek velel vojskům zcela slepý.",
+      "answer": false
+    },
+    {
+      "id": "7791cf74-abf6-40ce-9fe4-a87cb4d1d37d",
+      "type": "true-false",
+      "question": "Autor české hymny František Škroup složil píseň 'Kde domov můj' narychlo v noci pro divadelní hru Fidlovačka, a samotný Josef Kajetán Tyl se prý tehdy zdráhal ji do hry zařadit, protože mu přišla moc utahaná.",
+      "answer": true
+    },
+    {
+      "id": "f8d34274-2c05-4cb0-b1eb-547c7e1564d3",
+      "type": "short-answer",
+      "question": "Na jakém velmi netradičním dopravním prostředku se po chodbách Pražského hradu v 90. letech proháněl prezident Václav Havel?",
+      "answers": [
+        "koloběžka",
+        "na koloběžce",
+        "koloběžce"
+      ]
+    },
+    {
+      "id": "4f1f4897-e528-47bf-9e29-ad6e8aa0ec5d",
+      "type": "short-answer",
+      "question": "Jaké zvíře si Jan Hus (podle tradované a slavné hříčky spojené s jeho jménem) vzal jako symbol do svého předsmrtného citátu: 'Dnes pečete ..., ale z jejího popela vzlétne labuť'?",
+      "answers": [
+        "husu",
+        "husa",
+        "hus"
+      ]
+    },
+    {
+      "id": "28532f53-a94f-435f-bfa5-66923cec8dad",
+      "type": "short-answer",
+      "question": "Jak se jmenoval český král (přezdívaný král železný a zlatý), který padl v bitvě na Moravském poli a údajně měl před bitvou velmi divoké sny o své zkáze?",
+      "answers": [
+        "Přemysl Otakar II.",
+        "Přemysl Otakar II",
+        "Přemysl Otakar 2"
+      ]
+    },
+    {
+      "id": "2c76023a-8ff6-440d-beb9-48a04d92b978",
+      "type": "match-pairs",
+      "question": "Spoj českého vládce s jeho velmi specifickým rysem nebo pikantností:",
+      "prompts": [
+        "Karel IV.",
+        "Václav II.",
+        "Rudolf II."
+      ],
+      "matches": [
+        "Jezdil tajně zápasit na rytířské turnaje",
+        "Schovával se pod peřinu a k relikviím kvůli strachu z bouřky",
+        "Trpěl těžkou formou syfilis a věřil na alchymii"
+      ]
+    },
+    {
+      "id": "2460088d-1258-4790-b665-0a91e5bf5bab",
+      "type": "match-pairs",
+      "question": "Spoj slavnou českou historickou osobnost s jejím netradičním činem či tajemstvím:",
+      "prompts": [
+        "Břetislav I.",
+        "Karel Hynek Mácha",
+        "František Ferdinand d'Este"
+      ],
+      "matches": [
+        "Aby získal nevěstu, unesl ji kláštera",
+        "Psal si šifrované pornografické deníky ze svého milostného života",
+        "Zanechal po sobě lovecké deníky se stovkami tisíc zastřelených zvířat"
+      ]
+    },
+    {
+      "id": "b9fa57a3-8d7e-4ed8-9aca-1a323d7e2cd8",
+      "type": "match-pairs",
+      "question": "Z jaké konkrétní budovy se v Praze létalo (defenestrace) v daném historickém roce?",
+      "prompts": [
+        "Rok 1419",
+        "Rok 1483",
+        "Rok 1618"
+      ],
+      "matches": [
+        "Novoměstská radnice",
+        "Staroměstská i Novoměstská radnice",
+        "Pražský hrad (Starý královský palác)"
+      ]
+    },
+    {
+      "id": "06efc450-b933-455a-9b89-0368dc1ee542",
+      "type": "sort-items",
+      "question": "Seřaďte slavné pražské defenestrace chronologicky od nejstarší (ta první) po tu nejmladší:",
+      "items": [
+        "První pražská (husité a Jan Želivský vyhazují konšely)",
+        "Druhá pražská (strach z návratu katolíků, útok na radnice)",
+        "Třetí pražská (počátek třicetileté války, pád do hnoje)"
+      ]
+    },
+    {
+      "id": "bb03dc31-ba11-4c9e-96d4-fc9f98eafdfd",
+      "type": "sort-items",
+      "question": "Seřaďte české osobnosti chronologicky podle toho, kdy žily (od nejstarší po nejmladší):",
+      "items": [
+        "Kníže Břetislav I. (únosce Jitky ze Svinibrodu)",
+        "Karel IV. (inkognito rytíř na turnajích)",
+        "Karel Hynek Mácha (autor šifrovaných pikantních deníků)"
+      ]
+    },
+    {
+      "id": "5c00d325-6a86-44b6-9650-b8234db58f18",
+      "type": "sort-items",
+      "question": "Seřaďte dopravní prostředky či zvířata na Pražském hradě chronologicky podle éry, kdy je využíval slavný panovník či prezident:",
+      "items": [
+        "Kůň Hektor (často na něm po Hradě jezdil T. G. Masaryk)",
+        "Koloběžka (používal Václav Havel k rychlému pohybu po dlouhých chodbách)",
+        "Golfový vozík (využíval Miloš Zeman ze zdravotních důvodů)"
+      ]
+    },
+    {
+      "id": "41fce80c-f6e3-4f9e-8850-2708f6d6f4af",
+      "type": "note",
+      "content": "<h2>Šifrované tajnosti K. H. Máchy</h2><p>Ačkoliv známe Karla Hynka Máchu jako zádumčivého romantického poutníka oděného v plášti, ve skutečnosti to byl velmi fyzický a vášnivý člověk. <b>Jeho slavné šifrované deníky</b>, do kterých používal kód nahrazující česká písmena cizími znaky (často z řečtiny a hebrejštiny), detailně popisují jeho velmi bouřlivý sexuální život s Eleonorou (Lori) Šomkovou. Byly natolik explicitní, že když je literární historik Jakub Arbes částečně rozluštil, celá desetiletí se je historici zdráhali v plném znění vydat, aby 'nepoškodili morální profil národního klasika'.</p>"
+    },
+    {
+      "id": "4c04c5af-2158-4324-80d1-91f67f1b2f8d",
+      "type": "note",
+      "content": "<h2>Pravda o hnoji a defenestraci z roku 1618</h2><p>Když čeští stavové v květnu 1618 vyhodili z okna Pražského hradu habsburské místodržící Viléma Slavatu a Jaroslava Bořitu z Martinic, oba pád ze zhruba 16 metrů <b>přežili jen s lehčími zraněními</b>. Dobová propaganda to hned začala zneužívat: katolíci vydávali letáky, kde místodržící chytá panna Maria svými andělskými perutěmi, zatímco protestanti šířili zkazky, že úředníci přistáli do obří měkké hromady hnoje (jako důkaz jejich morální špíny). Skutečnost? Přežili díky silným dobovým plášťům, chladnému počasí a především proto, že zeď paláce je velmi svažitá a nepadali tak volným pádem, ale spíše sklouzli do hradního příkopu.</p>"
+    },
+    {
+      "id": "41a57065-ea81-4d5e-bcc3-e3e40e4bc3b0",
+      "type": "note",
+      "content": "<h2>Václav II. a jeho královské neurózy</h2><p>Václav II., syn Přemysla Otakara II., byl brilantní diplomat, obratný politik a jeden z nejbohatších králů Evropy (díky kutnohorskému stříbru). Soukromě však trpěl těžkými neurózami. Pravděpodobně si nesl následky traumatického věznění na hradě Bezděz v dětství. Podle kronikáře Petra Žitavského měl panický strach z koček a jejich mňoukání. Ještě hůře snášel bouřky - při zahřmění se král běžel schovat pod deky, utíkal do nejtemnějších místností a nechal se obklopit svatými ostatky a kněžími, kteří se za něj museli modlit. Kvůli jeho strachu o život dokonce nesměl v jeho přítomnosti nikdo hlasitě kýchat nebo smrkat.</p>"
+    }
+  ]
+}
