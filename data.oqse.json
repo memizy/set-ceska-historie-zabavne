@@ -1,5 +1,5 @@
 {
-  "$schema": "https://memizy.com/schemas/oqse/v1.0.json",
+  "$schema": "https://cdn.jsdelivr.net/gh/memizy/oqse-specification@main/schemas/oqse-v0.1.json",
   "version": "0.1",
   "meta": {
     "id": "019ca92b-5b1e-724c-9d68-1f132cc67a65",
