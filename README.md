@@ -15,6 +15,14 @@ Zábavná studijní sada pro [Memizy Ecosystem](https://github.com/memizy/memizy
 
 ---
 
+## 🔗 Odkaz na sadu (Raw Data)
+
+**[https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json)**
+
+*Zkopíruj tento odkaz do aplikace Memizy a okamžitě začni učit se!*
+
+---
+
 ## 📖 O sadě
 
 Tento repozitář obsahuje data ve formátu **OQSE** (Open Question Set Exchange). 
@@ -26,7 +34,7 @@ Sada vás provede českou historií z úhlu, který se v běžných učebnicích
 ## 🚀 Jak sadu používat
 
 Sada je plně kompatibilní s ekosystémem Memizy. Stačí si v aplikaci Memizy otevřít import a vložit přímý odkaz na data této sady (upravte URL podle toho, kam soubor nahrajete):
-`https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json`
+[https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json](https://cdn.jsdelivr.net/gh/memizy/set-ceska-historie-zabavne@main/data.oqse.json)
 
 ## ⚖️ Licence
 
